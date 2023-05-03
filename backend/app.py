@@ -8,7 +8,7 @@ import openai
 
 # company_name=""
 # industry=""
-openai.api_key="PUT_API_KEY_HERE"
+openai.api_key=""
 agent_stack=[]
 agent_progress=[]
 agent_number=0
